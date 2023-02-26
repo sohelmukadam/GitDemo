@@ -20,6 +20,7 @@ public class gitDemoScript {
 	System.out.println("Inside the Branch-1");
 	System.out.println("Adding print statement for new branch");
 	System.out.println("Change made to reflect");
+		System.out.println("Change made on github website");
         myAlert.accept();
 	}
 
