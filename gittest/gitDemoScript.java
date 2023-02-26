@@ -21,6 +21,8 @@ public class gitDemoScript {
 	System.out.println("Adding print statement for new branch");
 	System.out.println("Change made to reflect");
 		System.out.println("Change made on github website");
+		System.out.println("Change made on github website to show use of pull");
+		
         myAlert.accept();
 	}
 
